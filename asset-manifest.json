@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Landing_page-in-React/static/css/main.b1090392.css",
+    "main.js": "/Landing_page-in-React/static/js/main.04a9c841.js",
+    "static/media/presentation.png": "/Landing_page-in-React/static/media/presentation.2d949a93e3bcab6b6622.png",
+    "static/media/About.png": "/Landing_page-in-React/static/media/About.0290bb5a48c48e1b374a.png",
+    "static/media/background.png": "/Landing_page-in-React/static/media/background.980493c75a48f2e7e650.png",
+    "static/media/download.png": "/Landing_page-in-React/static/media/download.52e6d6c5be1ea7a93af6.png",
+    "static/media/feature_2.png": "/Landing_page-in-React/static/media/feature_2.2b466162eafef9cf2b5f.png",
+    "static/media/feature_1.png": "/Landing_page-in-React/static/media/feature_1.801589a0dc8faa4fad28.png",
+    "static/media/feature_3.png": "/Landing_page-in-React/static/media/feature_3.0fadb17c93d531691fd5.png",
+    "index.html": "/Landing_page-in-React/index.html",
+    "main.b1090392.css.map": "/Landing_page-in-React/static/css/main.b1090392.css.map",
+    "main.04a9c841.js.map": "/Landing_page-in-React/static/js/main.04a9c841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1090392.css",
+    "static/js/main.04a9c841.js"
+  ]
+}
