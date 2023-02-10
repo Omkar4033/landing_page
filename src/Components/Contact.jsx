@@ -2,7 +2,7 @@ import React from 'react'
 
 function Contact() {
   return (
-    <div id='contack'>
+    <div id='contact'>
         <h3>Send me Mail</h3>
         <div className='contact-input'>
             <input type='email' placeholder="example@gmail.com"/>
